@@ -1,7 +1,7 @@
 import React from "react";
 
-const CreateForm = () => {
+const CreateTodoForm = () => {
   return <div>CreateForm</div>;
 };
 
-export default CreateForm;
+export default CreateTodoForm;

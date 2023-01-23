@@ -1,10 +1,14 @@
 import React from "react";
 
-import TodoList from "../../component/TodoList";
+import Hero from "../../components/Hero";
+import TodoList from "../../components/TodoList";
+import Pending from "../../components/Pending";
+import Completed from "../../components/Completed";
 
 const Home = () => {
   return (
-    <div>
+    <div className="justify-center">
+      <Hero />
       <TodoList />
     </div>
   );
