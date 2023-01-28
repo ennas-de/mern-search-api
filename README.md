@@ -6,17 +6,9 @@
 
 ## General info
 
-This project is simple Todo web app, built with the JavaScript's MERN stack (React, NodeJS, ExpressJS, MongoDB).
+This project is full stack Todo web app, built with the JavaScript's MERN stack (React, NodeJS, ExpressJS, MongoDB).
 
-## Technologies
 
-Project is created with:
-
-- Lorem version: 12.3
-- Ipsum version: 2.33
-- Ament library version: 999
-
-### Libraries Used
 
 ## Setup
 
@@ -30,8 +22,6 @@ $ npm install
 $ npm start
 ```
 
-To run this project, install it locally using npm :
-
 Back End:
 
 ```
@@ -40,11 +30,6 @@ $ npm install
 $ npm run dev (development) || npm run start  (production)
 ```
 
-## How It Works
-
-## Usage
-
-### Issued Used
 
 ### Author
 
